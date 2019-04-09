@@ -15,14 +15,14 @@ class Employee {
     }
 
     calculatePay() {
-        // ...
+        // ... HR
     }
 
     reportHours() {
-        // ...
+        // ... Operations
     }
 
     save() {
-        // ...
+        // ... IT
     }
 }
